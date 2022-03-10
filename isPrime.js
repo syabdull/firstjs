@@ -80,5 +80,11 @@ sayHello();
     let arr2=[2,3,"Abdulla","Mehaboob","rehamath",'c'];
     arr2.pop();
   console.log(arr2);
+  //shift removes the elemetn from the first 
+  let  arr3=["firstOne","SecondOne","ThirdOne",20,30];
+   arr3.shift();
+   console.log(shift);
+   
+   
   
 
