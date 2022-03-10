@@ -76,4 +76,9 @@ sayHello();
         ele.push("Ashraf");
         console.log(ele);
         //push adds the element at the end
-        
+        //pop method 
+    let arr2=[2,3,"Abdulla","Mehaboob","rehamath",'c'];
+    arr2.pop();
+  console.log(arr2);
+  
+
