@@ -83,7 +83,10 @@ sayHello();
   //shift removes the elemetn from the first 
   let  arr3=["firstOne","SecondOne","ThirdOne",20,30];
    arr3.shift();
-   console.log(shift);
+   console.log(arr3);
+   // all about unshift
+   arr3.unshift("Abdulla");
+   console.log(arr3);
    
    
   
