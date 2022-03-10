@@ -87,6 +87,10 @@ sayHello();
    // all about unshift
    arr3.unshift("Abdulla");
    console.log(arr3);
+   //length;
+   console.log(arr3.length);
+   
+
    
    
   
