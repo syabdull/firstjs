@@ -37,4 +37,12 @@ sayHello();
         let subraction =num2-num1;
         console.log(subraction);
  }
-    fun(10,30);
+    fun(10,30); 
+     //iife immediately invoked function Expression
+  (function ab(){
+        console.log("iam Abdulla");
+   })();
+//another function for practice 
+(function ab1(){
+     console.log("iam iffe too");
+})();
