@@ -56,4 +56,13 @@ sayHello();
 })(10,2);
 //above is the iffi function with parameter
 
-          
+        // arras
+        let arr=[];
+        console.log(arr);
+        // array with elements
+        let arr1=["string ",23.55,34,false,'c'];
+        console.log(arr1);
+        //epty array with out elements 
+        let ab3=[2,3,"abdulla",'d',"rehmath","mehaboob"];
+        console.log(ab3);
+        console.log(ab3[2]);
