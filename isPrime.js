@@ -54,4 +54,6 @@ sayHello();
 (function(num1,num2){
  console.log(num1/num2);
 })(10,2);
+//above is the iffi function with parameter
+
           
