@@ -46,3 +46,12 @@ sayHello();
 (function ab1(){
      console.log("iam iffe too");
 })();
+//Third iife function for practice 
+(function (){
+     console.log("cool stuff");
+})();
+// iffe with parameter
+(function(num1,num2){
+ console.log(num1/num2);
+})(10,2);
+          
