@@ -32,3 +32,9 @@ sayHello();
      return mul;
  }
  console.log(multiplicationOfTwo(1,100));
+ //storing funcion in a variable 
+ let fun=function sub(num1,num2){
+        let subraction =num2-num1;
+        console.log(subraction);
+ }
+    fun(10,30);
