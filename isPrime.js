@@ -66,3 +66,14 @@ sayHello();
         let ab3=[2,3,"abdulla",'d',"rehmath","mehaboob"];
         console.log(ab3);
         console.log(ab3[2]);
+        // Arrays Methods 
+        //push method 
+        let ele=[];
+        console.log(ele);
+        ele.push("Abdulla");
+        ele.push("Rehmath");
+        ele.push("Mehaboob");
+        ele.push("Ashraf");
+        console.log(ele);
+        //push adds the element at the end
+        
