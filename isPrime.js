@@ -13,3 +13,22 @@ if(ans==0){
 }else{
     console.log("is Prime");
 }
+// function in js with out parameter
+function sayHello(){
+    console.log("hello there");
+
+}
+sayHello();
+//function with parameter
+ function sum(num1,num2){
+     //addation of given no
+     let addation =num1+num2;
+     console.log("addation of given no is"+addation);
+ }
+ sum(12,13);
+ //function with return type 
+ function multiplicationOfTwo(num1,num2){
+     let mul=num1*num2;
+     return mul;
+ }
+ console.log(multiplicationOfTwo(1,100));
