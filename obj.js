@@ -14,6 +14,21 @@ let obj1={"name":"Abdulla",
                 address:{
                     city:"queens",
                     state:'haryana',
+                },
+                sayHi:function(){
+                    console.log("captain says hi");
                 }
               }
               console.log(capAmerica);
+              //storing multiple things in object 
+              let obj2={
+                  name:"Abdulla",
+                  age:34,
+                  marks:[100,200,300],
+                  address:{
+                     state:"ts",
+                     city:"hyd",
+
+                  }
+              }
+              console.log(obj2);
