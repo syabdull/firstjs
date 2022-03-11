@@ -32,3 +32,9 @@ let obj1={"name":"Abdulla",
                   }
               }
               console.log(obj2);
+// Access things 
+console.log(capAmerica.Name);
+console.log(capAmerica.Age);
+console.log(capAmerica.friends);
+console.log(capAmerica.address.city);
+console.log(obj2.marks[0]);
